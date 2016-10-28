@@ -11,5 +11,5 @@ Completed Tasks::
 
 TO DO:
 1. change mailchimp credentials for AT
-2.google plus logo colour bug
+2. google plus logo colour bug(completed on 30-10-2016)
 
