@@ -381,6 +381,9 @@ ul.social-network li {
 .social-network a.icoLinkedin:hover {
   background-color:#007bb7;
 }
+.social-network a.icogoogle:hover {
+  background-color:#d34836;
+}
 .social-network a.icoRss:hover i, .social-network a.icoFacebook:hover i, .social-network a.icoTwitter:hover i, 
 .social-network a.icoGit:hover i, .social-network a.icoVimeo:hover i, .social-network a.icoLinkedin:hover i {
   color:#fff;
